@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 2691618943661707755}
   - component: {fileID: 1366093437524516430}
   - component: {fileID: 3824015643858233988}
+  - component: {fileID: 6793100917717685252}
   m_Layer: 0
   m_Name: boteBasura
   m_TagString: Untagged
@@ -79,3 +80,17 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!64 &6793100917717685252
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3319537236983892817}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 6955289142405206682, guid: a25c079c6b0ea8342b4d318d9ed2b182, type: 3}

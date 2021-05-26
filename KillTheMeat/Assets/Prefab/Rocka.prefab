@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 7956468278753079177}
   - component: {fileID: 6468530448400293932}
   - component: {fileID: 9088300753388459238}
+  - component: {fileID: 2791295919200478047}
   m_Layer: 0
   m_Name: Rocka
   m_TagString: Untagged
@@ -79,3 +80,17 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!64 &2791295919200478047
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7287067266851403059}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 7702779526387289552, guid: 5f75ecc3c4c30c543b5e9a363b90eae9, type: 3}

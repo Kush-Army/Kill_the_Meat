@@ -228,6 +228,7 @@ GameObject:
   - component: {fileID: 1627411550954628078}
   - component: {fileID: 8221102029794330362}
   - component: {fileID: 8231519884949076044}
+  - component: {fileID: 5474929786860979746}
   m_Layer: 0
   m_Name: cosabasurero1
   m_TagString: Untagged
@@ -296,3 +297,17 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!64 &5474929786860979746
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8387047244939675450}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 7583180678613431077, guid: b9a32f0fe397f5b46becca3582265ea1, type: 3}
